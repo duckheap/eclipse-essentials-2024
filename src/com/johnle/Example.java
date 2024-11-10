@@ -9,6 +9,7 @@ public class Example {
 	
 	public void example() {
 		String str = "";
+		// what?
 	}
 
 }
